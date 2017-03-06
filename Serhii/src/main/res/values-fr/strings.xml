@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serhii</string>
+    <string name="pizza_hint">Pizza sera ici bientôt!</string>
+    <string name="size_label">Taille</string>
+    <string name="wheat_label">Blé complet</string>
+    <string name="dough_label">Pâte</string>
+    <string name="toppings_label">Garnitures: </string>
+    <string name="from_price_label">De $</string>
+    <string name="select_toppings_button_label">Sélectionnez garnitures</string>
+    <string name="toppings_picker_title">Choisissez garnitures:</string>
+    <string name="price_label">Prix:</string>
+    <string name="checkout_button_label">Check-Out</string>
+    <string name="delivery_info_label">Livraison et de paiement</string>
+    <string name="full_name_hint">Nom complet</string>
+    <string name="delivery_address_hint">Adresse de livraison</string>
+    <string name="phone_hint">Numéro de téléphone</string>
+    <string name="card_number_hint">Numéro de carte</string>
+    <string name="expiry_date_hint">Date d\'expiration (MMYY)</string>
+    <string name="cvv_hint">CVV</string>
+    <string name="submit_button_label">Passer la commande</string>
+    <string name="thank_you">Nous vous remercions de votre commande! Nous vous remercions de votre choix!\nVous aurez votre pizza bientôt!</string>
+    <string name="order_label">Commande #: </string>
+    <string name="dear">Cher </string>
+    <string name="check_input">Vérifiez que vous entrée, quelque chose de mal</string>
+
+    <string-array name="pizza_list">
+        <item>Diabola</item>
+        <item>Maîtriser</item>
+        <item>Fromage Oliva</item>
+        <item>César Au Poulet</item>
+        <item>Pit-stop</item>
+        <item>Veggie</item>
+    </string-array>
+    <string-array name="size_list">
+        <item>Petit (base)</item>
+        <item>Moyen (+$0.99)</item>
+        <item>Grand (+$2.99)</item>
+        <item>X-Grand (+3.99)</item>
+    </string-array>
+    <string-array name="topping_list">
+        <item>Fromage</item>
+        <item>Piment jalapeno</item>
+        <item>Oliva</item>
+        <item>Tomate</item>
+        <item>Blé</item>
+        <item>Poivre</item>
+        <item>Cornichon</item>
+        <item>Champignon</item>
+        <item>Oignon</item>
+        <item>Saucisse</item>
+        <item>Pepperoni</item>
+        <item>Jambon</item>
+        <item>Bacon</item>
+        <item>Boeuf</item>
+        <item>Poulet</item>
+    </string-array>
+    <string-array name="dough_list">
+        <item>Mince</item>
+        <item>Épais</item>
+    </string-array>
+</resources>

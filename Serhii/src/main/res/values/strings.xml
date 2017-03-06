@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Serhii</string>
+    <string name="pizza_hint">Pizza will be here soon!</string>
+    <string name="size_label">Size</string>
+    <string name="wheat_label">Whole wheat</string>
+    <string name="dough_label">Dough</string>
+    <string name="toppings_label">Toppings: </string>
+    <string name="from_price_label">From $</string>
+    <string name="select_toppings_button_label">Select toppings</string>
+    <string name="toppings_picker_title">Choose toppings:</string>
+    <string name="price_label">Price:</string>
+    <string name="checkout_button_label">Check-Out</string>
+    <string name="delivery_info_label">Delivery and payment information</string>
+    <string name="full_name_hint">Full name</string>
+    <string name="delivery_address_hint">Delivery address</string>
+    <string name="phone_hint">Phone number</string>
+    <string name="card_number_hint">Card number</string>
+    <string name="expiry_date_hint">Expiry date (MMYY)</string>
+    <string name="cvv_hint">CVV</string>
+    <string name="submit_button_label">Place the order</string>
+    <string name="thank_you">Thank you for your order! We appreciate your choice!\nYou\'ll get your pizza soon!</string>
+    <string name="order_label">Order #: </string>
+    <string name="dear">Dear </string>
+    <string name="check_input">Check you input, something wrong</string>
+
+
+    <string-array name="pizza_list">
+        <item>Diabola</item>
+        <item>Master</item>
+        <item>Cheesy Oliva</item>
+        <item>Chicken Ceasar</item>
+        <item>Pit-stop</item>
+        <item>Veggie</item>
+    </string-array>
+    <string-array name="size_list">
+        <item>Small (basic)</item>
+        <item>Medium (+$0.99)</item>
+        <item>Large (+$2.99)</item>
+        <item>X-Large (+$3.99)</item>
+    </string-array>
+    <string-array name="topping_list">
+        <item>Cheese</item>
+        <item>Jalapeno pepper</item>
+        <item>Oliva</item>
+        <item>Tomato</item>
+        <item>Corn</item>
+        <item>Pepper</item>
+        <item>Pickle</item>
+        <item>Mushroom</item>
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Pepperoni</item>
+        <item>Ham</item>
+        <item>Bacon</item>
+        <item>Beef</item>
+        <item>Chicken</item>
+    </string-array>
+    <string-array name="dough_list">
+        <item>Thin</item>
+        <item>Thick</item>
+    </string-array>
+</resources>
